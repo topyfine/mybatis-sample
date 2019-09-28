@@ -18,6 +18,7 @@
     <modules>
         <module>mybatis</module>
         <module>mybatis-spring</module>
+        <module>mybatis-spring-boot</module>
     </modules>
 
     <properties>
